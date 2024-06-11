@@ -1,0 +1,12 @@
+# .gitignore
+
+# python Cache files
+__pycache__
+*.pyc
+./origin
+
+# conda cache files
+.conda
+
+# vscode cache files
+.vscode
