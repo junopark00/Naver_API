@@ -28,4 +28,4 @@ To run this project, you'll need `Python3` and the `PySide2` library. Also, you'
 
 ## License
 
-This project is released under the MIT License. For more information, see the [LICENSE](LICENSE) file.
+This project is released under the MIT License. For more information, see the [LICENSE](../LICENSE) file.
